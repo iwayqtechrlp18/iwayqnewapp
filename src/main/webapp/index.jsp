@@ -1,10 +1,6 @@
 <html>
 <head></head>
 <body>
-<form action="UploadDownloadFileServlet" method="post" enctype="multipart/form-data">
-Select File to Upload:<input type="file" name="fileName">
-<br>
-<input type="submit" value="Upload">
-</form>
+<h1> This is the code  changed,  Site under  construction, Come back tomorrow </h1>
 </body>
 </html>
